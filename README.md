@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mohamed 👋
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Artificial%20Intelligence%20Student&fontSize=35&fontColor=ffffff)
+
 
 <!--
 **ahmed4mohamed4/ahmed4mohamed4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
